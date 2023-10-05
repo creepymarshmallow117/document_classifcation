@@ -1,0 +1,38 @@
+RANAVAT
+
+SHIPPER:
+
+XUZHOU EROSE GLASS PRODUCTS CO.,LTD.
+
+A3-2006, Yuexing Global Commerical Center
+Economic Development Zone, Xuzhou 221001
+CHINA
+
+Currency: USD
+NOTIFY PARTY:
+Ranavat
+
+1941 Westwood Blvd.
+Los Angeles, CA 90025
+USA
+
+COMMERCIAL INVOICE
+
+DATE: April 27, 2023
+Document # E20230427
+BILL TO: RANAVAT
+CONSIGNEE:
+Sadatan Ayurveda Pvt Ltd.
+8/2, Mouza Bodhala, Off Fetri,
+Kalmeshwar Road, Nagpur 441501
+
+INDIA
+Vendor Part# Item# Barcode Description | Line ID | Qty | Rate |ORIGIN| HTS Code AMOUNT
+N/A 40074 N/A GLASS JARS 1 12500 $0.12 CHINA 7010.90.00 $1,500.00
+N/A 40039 N/A PLASTIC LIDS 2 12500 ($0.05 CHINA _ (7010.20.00 $625.00
+SUBTOTAL $2,125.00
+
+Notes : Purchase Order
+
+Hazmat: NO
+TERMS: DDP
