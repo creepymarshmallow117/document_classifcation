@@ -2,13 +2,13 @@ import os
 import pytesseract
 from PIL import Image
 
-path = r"D:\pdf_to_image output\doc_classification_samples"
+path = r"C:\Users\creep\BizAmica\document_classifcation\pdf_to_image"
 
 files_and_directories = os.listdir(path)
 
 filenames = [file for file in files_and_directories if os.path.isfile(os.path.join(path, file))]
 
-out_path = r"D:\Bizamica\document_classifcation\image_to_text_out"
+out_path = r"C:\Users\creep\BizAmica\document_classifcation\image_to_text_out"
 
 for filename in filenames:
     file_path = os.path.join(path, filename)

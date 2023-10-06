@@ -1,0 +1,58 @@
+EUROPAISCHE GEMEINSCHAFT
+
+LISTE DER WARENPOSITIONEN - AUSFUHR
+
+Pos,- Nr.{32}] Anzahl und Art der Packstiicke, Zeichen und Nummem der Packstiicke (31.1)
+
+Versender/Austtihrer 2)
+Kennzeichen des Beférderungsmittels beim Abgang (18)
+
+Kennnummer der Sendung ( Unique Consignment Ref. Nr.) (7)
+
+“Vorgelegte Unterlagen / Bescheinigungen (44.
+
+DE2321378
+HEGENSCHEIDT MFD
+Hegenscheidt Platz
+41812 Erkelenz
+
+Internationale Unterlagen:
+T:N380
+
+R:VK1/10101040
+Handelsrechnung
+
+CS, Kiste ("Case") 202308225000875
+7001
+
+DE2321378
+HEGENSCHEIDT MFD
+Hegenscheidt Platz
+41812 Erkelenz
+
+Internationale Unterlagen:
+
+T:N380
+R:VK1/10101040
+Handelsrechnung
+T:Y901
+R:
+nicht von der Liste der Gtiter mit doppeltem
+Menwendungszweck (Anhang I der Dual-use-VO) erfasste
+iter
+
+MRN 23DE705313975083E4
+
+MAUI
+
+Auswechselbare Werkzeuge aus unedlen Metallen, zur
+Verwendung in mechanischen od. nicht mechan.
+Hi rkzeugen (hi
+
+Werkstiickhalter i. S. von werkstiickgebundenen
+Vorrichtungen sowie Vorrichtungssatze zum Zusammenstellen
+
+84662020
+
+ohne
+

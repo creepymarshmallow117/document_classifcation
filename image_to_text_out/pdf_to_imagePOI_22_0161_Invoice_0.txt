@@ -1,0 +1,84 @@
+Rig
+
+Commercial Invoice
+
+5001995 90426
+John Energy Ltd
+220, GIDC Estate,
+
+110HOU
+
+Technologies
+
+NATIONAL OILWELL VARCO, L.P.
+
+NOV RIG SOLUTIONS SPARES (HOU1)
+
+5130 NORTH SAM HOUSTON PARKWAY WEST
+LEDGER 3001
+
+HOUSTON, TX 77086
+
+PHONE: (281) 943-5801
+
+UNITED STATES
+
+Invoice
+
+2095070-1769109
+
+“ee UN TM
+POI/22/0161
+
+Cust Num 5001995
+
+Page Page 1 of 2
+
+5001995 93545
+John Energy Limited
+
+c/o National Oilwell Varco - W/C
+
+€
+e Mehsana - 384002 2 5130 West Sam Houston Parkway North
+3 Gujarat, India 2
+2 GSTIN No : 24AAACJ5184F1ZQ a
+~ Houston, TX 77086 USA
+Rig:John Energy Ltd: John 31
+Cust Contact . PARTH PATEL
+Customer eMail purchasingimport@johnenergy.com Date Printed 23 May 2023
+| Currency USD Date Packed 22 May 2023
+‘Sales Rep Maria.Mimms@nov.com Freight Terms Ship Date
+(Sales Order CQO-1078013 Ref BOL
+'Carrier WILL CALL Shipping Terms FCA-FREE CARRIER
+| Export Msg Payment Terms CIA
+‘Customs Msg Ult Dest IN
+Details
+Line Item Description UM Ship Qty Net Price Ext Net Price
+1 10624006-001 EA 1 $ 9,326.00 $ 9,326.00
+
+Packing Element, SBOP;13-05M,STD;NIT;API 16A 4th;5000
+
+Country of Origin: United States
+Harmonized Tariff Schedule Code: 8481909085
+
+Export Control Classification Number: US-EAR99
+Harmonized Tariff Schedule Code (ShipTo):
+Export Control Classification Number (ShipTo):
+
+8481909085
+US-EAR99
+
+Item Net Wgt / Total Net Wgt (Ibs): 551.156 / 551.156
+
+IF YOU HAVE ANY FEEDBACK/
+COMMENTS YOU WOULD LIKE TO
+GIVE AGAINST THIS ORDER, (OR
+FOR ANY OTHER REASON)
+
+PLEASE GO TO THE FOLLOWING.
+LINK AND SELECT THE
+RELEVANT DEPARTMENT:
+https://go.nov.com/#feedback
+
+SN: XK-22-1049022

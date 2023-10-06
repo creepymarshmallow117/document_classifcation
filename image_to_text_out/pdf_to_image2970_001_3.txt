@@ -1,0 +1,68 @@
+GP 006 09,18
+
+SALES INVOICE
+
+Copy
+Invoice > VK1/10101040
+Date : 2023-08-21
+Maruti Suzuki India Limited Department : SET
+Gurgaon Plant Our Tax ID DE300719124
+Palam Gurgaon Road, Sector-18 Your Cu-No. 000004312
+122015 Haryana Your VAT No.
+India Currency : EUR
+Customer address Delivery address
+Maruti Suzuki India Limited Maruti Suzuki India Limited
+Gurgaon Plant Gurgaon Plant
+Palam Gurgaon Road, Sector-18 Palam Gurgaon Road, Sector-18
+122015 Haryana 422015 Haryana
+India India
+|
+448854 / Case 60x60x48 cm, 72,0 kg gross wt, 58,0 kg net wt
+- EXW Erkelenz, Incoterms 2010
+- Delivery through: MSIL will organize pick-up
+- Finat destination: New Delhi Airport / Nnava Sheva Port
+- Payment Terms: 100 % TT remittance 30 days after receiving original documents
+- Marking on cases : PO SC-IEC1/2324/002/GIC/MC-GP5
+- ERP PO No. 803525 / delivery for Q2/ FY 23-24
+Item Quantity Price per unit Pos. Amount
+Our reference : 000448854 Your P.O. No. 2  $C-IEC1/2324/002/GIC/MC-GP5.
+Packing Slip No. : 200346208 Delivery Date : 2023-08-15
+Machine No. : 202428 Machine type : 7895
+1023557-2 2500,00 pcs 12,00 30.000,00
+work roller M1-5
+Description:
+drwg.-no.: 1023557-2
+R1.45/R1.1
+DZ Bank AG HEGENSCHEIDT-MFD GmbH Sitz der Geselischaft ist Erkelenz
+
+IBAN: DESO 3006 0010 0000 0208 45
+BIC: GENODEDDXXX
+
+Commerzbank AG
+
+IBAN: DE26 3104 0015 0450 1003 00
+BIC: COBADEFFXXX
+
+LB BW
+
+IBAN: DE57 6005 0101 0001 1827 21
+BIC: SOLADEST600
+
+Hegenscheidt Plaiz
+
+D-41812 Erkelenz
+
+Postfach 16 52 / D-41806 Erkelenz
+Telefon: +49 2431 860
+
+Telefax: +49 2431 86686
+
+Internet: www.hegenscheidt-mfd,com
+Steuer-Nr. 208 / 5707 / 1657
+UST-Id-Nr. DE300719124
+
+Amtsgericht Ménchengladbach HRB 16665
+Geschaftsflinrende Gesellschafter:
+
+Hans J. Naumann, Prof. E.h. Dr.-Ing. E.h.
+John Oliver Naumann

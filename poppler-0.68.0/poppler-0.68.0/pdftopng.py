@@ -2,8 +2,8 @@ from pdf2image import convert_from_path
 import os
 
 jpegopt = {"quality": 100, "progressive": True, "optimize": True}
-directory = r"C:\Users\Aditya\Downloads\temp"
-output_directory = r"D:\pdf_to_image output\doc_classification_samples"
+directory = r"C:\Users\creep\Downloads\drive-download-20230828T090526Z-001\drive-download-20230828T090526Z-001"
+output_directory = r"C:\Users\creep\BizAmica\document_classifcation\pdf_to_image"
 filenames = os.listdir(directory)
 k = 1
 
@@ -14,7 +14,7 @@ for i, filename in enumerate(filenames):
     print(filename)
     path = os.path.join(directory, filename)
     try:
-        images = convert_from_path(path, fmt='png', jpegopt=jpegopt, grayscale=True, dpi=200, poppler_path=r'C:\Users\Aditya\Downloads\poppler-0.68.0\poppler-0.68.0\poppler-0.68.0\bin')
+        images = convert_from_path(path, fmt='png', jpegopt=jpegopt, grayscale=True, dpi=200, poppler_path=r'C:\Users\creep\BizAmica\document_classifcation\poppler-0.68.0\poppler-0.68.0\poppler-0.68.0\bin')
         
         # Save only the first image (page) as a PNG file
         # first_image = images[0]
