@@ -1,22 +1,12 @@
 import os
-import sys
-import pdf2image
-from os import walk
-from os import listdir
-from os.path import isfile, join
 import pytesseract
-from pdf2image import convert_from_path
 from PIL import Image
-from os.path import dirname
-from zipfile import ZipFile
 
 path = r"D:\pdf_to_image output\doc_classification_samples"
 
 files_and_directories = os.listdir(path)
 
 filenames = [file for file in files_and_directories if os.path.isfile(os.path.join(path, file))]
-
-
 
 out_path = r"D:\Bizamica\document_classifcation\image_to_text_out"
 
