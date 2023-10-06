@@ -10,6 +10,7 @@ filenames = [file for file in files_and_directories if os.path.isfile(os.path.jo
 
 out_path = r"C:\Users\creep\BizAmica\document_classifcation\image_to_text_out"
 
+
 for filename in filenames:
     file_path = os.path.join(path, filename)
     img = Image.open(file_path)

@@ -1,0 +1,84 @@
+CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+PAGE 1 OF 3
+Pagina 1 de 3
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+Aviso Expedicién : WA230913 Fecha: 25.03.2023 N°Factura : 99981890907
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CUSTOMER: Ministry of Defence
+
+Cliente Government of India
+ADDRESS: 104 South Block
+Direccién
+
+110011 New Delhi
+INDIA
+
+ey
+= N° KAPIS: 1455
+a CLO 24 ED Air Force Station PURCHASE ORDER DATE
+| CLO 24 ED Air Force Station "
+a . Su Pedido N®: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 21.03.2023
+4 212212 Prayagraj
+Ki INDIA
+.
+4 CASA REPRESENTATIVE PAYMENT DUE DATE:
+al Interlocutor Casa: TFNO.: Fecha de vencimiento:
+:
+s P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
++ Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+4 Designacién Materiales y/o Servicios
+4 Type of export: Definitive
+=
+Ce
+"i 70 NAS6703DU5 (NAS6703DUS) BOLT Ul 12,000 10,00 120,00
+z Country of Origin: UNITED Unit Net weight:
+“ KINGDOM 0,0043 Kg
+3 Comm.: 7318190090
+Bel
+mi 170 NAS6704D4 (NAS6704D4) BOLT Ul 10,000 21,99 219,90
+4 Country of Origin: USA Unit Net weight:
+s Comm.: 7318156890 0,0072 Kg
+Ca
+& 180 NAS6704D4 (NAS6704D4) BOLT Ul 10,000 21,99 219,90
+z Country of Origin: USA Unit Net weight:
+4 Comm.: 7318156890 0,0072 Kg
+wi
+3
+q
+i
+wi
+: BOX: WA230913
+i WEIGHT (KG): 0,280
+DIMENSIONS (CM): 37X25X1
+TOTAL NET WEIGHT: 0,1956 KG
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract: BY/POR AIRBUS DEFENCE AND SPACES.A
+
+SAP Sales Order: M9230966
+
+REMARKS
+
+a WMO
+
+81890907
+

@@ -1,0 +1,98 @@
+CUSTOMS INVOICE PAGE 1 OF 1
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+Pagina 1 de 1
+
+PACKING LIST NO. SHIP DATE INVOICE NO.
+Aviso Expedicién : WA230918 Fecha: 25.03.2023 N°Factura : 99981890912
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CLO 24 ED Air Force Station
+CLO 24 ED Air Force Station
+212212 Prayagraj
+
+INDIA
+
+CUSTOMER: Ministry of Defence
+Cliente Government of India
+
+ADDRESS:
+
+Direccién
+
+104 South Block
+
+110011 New Delhi
+INDIA
+
+N° KAPIS: 1455
+
+PURCHASE ORDER DATE
+Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 16.03.2023
+
+CASA REPRESENTATIVE
+Interlocutor Casa: TENO.:
+
+PAYMENT DUE DATE:
+
+Fecha de vencimiento:
+
+ey
+=
+=
+z
+a
+all
+rt
+#
+he
+:
+al
+Fal
+a
+s P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
++ Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+4 Designacién Materiales y/o Servicios
+4 Type of export: Definitive
+=
+Ce
+"i 130 D22697000 (D22697000) INTERRUPTOR Ul 1,000 9.985,00 9.985,00
+z S/Number: CE2658
+a Country of Origin: Spain Unit Net weight:
+3 Comm.: 8536101090
+Bel
+=
+fl
+:
+m4
+F BOX : WA230918
+& WEIGHT (KG): 0,610
+z DIMENSIONS (CM): 25X20X12
+4
+wi
+3
+r= TOTAL NET WEIGHT:
+a
+:
+FOR CUSTOMS PURPOSES ONLY
+Customer: 45207 SAP Contract: BY/POR AIRBUS DEFENCE AND SPACES.A TOTAL USD 9.985,00
+SAP Sales Order: M9230867
+REMARKS
+a WMO
+81890912
+

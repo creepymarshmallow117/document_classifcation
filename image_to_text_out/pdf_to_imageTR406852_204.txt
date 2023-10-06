@@ -1,0 +1,93 @@
+CUSTOMS INVOICE PAGE 1 OF 3
+AIRBUS DEFENCE AND SPACE S.A.U. Pagina 1 de 3
+Domicilio Social: C/ Aviocar 2 PACKING LIST NO. SHIP DATE INVOICE NO.
+28906 Getafe, Madrid - Espaiia Aviso Expedicién : WA230900 Fecha: 25.03.2023 N°Factura : 99981890890
+
+VAT: VAT: ESA28006104
+
+CUSTOMER:
+Cliente
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT: ADDRESS:
+
+DELIVERY CONDITIONS: DAP Direccién
+
+COMPANY NUMBER: 1455
+
+I
+SHIP TO (Destino de los materiales)
+
+Indian Air Force
+
+212212 Prayagraj
+INDIA
+
+CLO 24 ED Air Force Station
+CLO 24 ED Air Force Station
+
+Ministry of Defence
+Government of India
+
+104 South Block
+
+110011 New Delhi
+INDIA
+
+N° KAPIS: 1455
+
+PURCHASE ORDER DATE
+Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+
+Interlocutor Casa:
+
+CASA REPRESENTATIVE
+
+TENO.:
+
+PAYMENT DUE DATE:
+
+Fecha de vencimiento:
+
+30, Foo 203, Seccn §. Hoja 42 10062. Inseripeion 6.3, S° dent, Fiscal A 006104
+
+P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
+Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+Designacién Materiales y/o Servicios
+Type of export: Definitive
+110 2700-5 (NSA55131-105) STUD Ul 50,000 4,00 200,00
+Country of Origin: USA Unit Net weight:
+Comm.: 7318159589 0,0026 Kg
+130 MS3367-5-9 (MS3367-5-9) STRAP Ul 100,000 2,00 200,00
+Country of Origin: Spain Unit Net weight:
+Comm.: 3926909790 0,0008 Kg
+‘S 170 NAS1805-6L (NAS1805-6L) NUT Ul 25,000 8,00 200,00
+Country of Origin: France Unit Net weight:
+Comm.: 7318169290 0,0058 Kg
+280 MS21251B3L (MS21251B3L) TURNBUCKLE BODY | U1 10,000 20,00 200,00
+
+Registro Mercantil de 4dr. Tomo
+
+Country of Origin: UNITED Unit Net weight:
+KINGDOM 0,0010 Kg
+Comm.: 7419200090
+
+BOX: WA230900
+WEIGHT (KG): 0,680
+DIMENSIONS (CM): 37X25X1
+TOTAL NET WEIGHT: 0,3650 KG
+
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract:
+SAP Sales Order: M9230908
+
+BY/POR AIRBUS DEFENCE AND SPACE S.A.
+
+REMARKS
+
+Observaciones
+
+81890890
+

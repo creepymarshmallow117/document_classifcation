@@ -1,0 +1,76 @@
+CUSTOMS INVOICE PAGE 1 OF 2
+
+AIRBUS DEFENCE AND SPACE S.A.U. Pagina 1 de 2
+Domicilio Social: C/ Aviocar 2 PACKING LIST NO. SHIP DATE INVOICE NO.
+28906 Getafe, Madrid - Espaiia Aviso Expedicién : WA230866 Fecha: 24.03.2023 N°Factura : 99981890795
+
+VAT: VAT: ESA28006104
+
+CUSTOMER: Ministry of Defence
+Cliente Government of India
+
+MANUFACTURING PLANT: AM-SERVICES
+ADDRESS: 104 South Block
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP Direccién
+COMPANY NUMBER: 1455 110011 New Delhi
+
+INDIA
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+N° KAPIS: 1455
+
+CLO 24 ED Air Force Station
+CLO 24 ED Air Force Station
+212212 Prayagraj
+
+INDIA
+
+PURCHASE ORDER DATE
+Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+
+CASA REPRESENTATIVE PAYMENT DUE DATE:
+
+Interlocutor Casa: TENO.: Fecha de vencimiento:
+
+P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
+Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+
+Designacién Materiales y/o Servicios
+
+Type of export: Definitive
+
+30, Foo 203, Seccn §. Hoja 42 10062. Inseripeion 6.3, S° dent, Fiscal A 006104
+
+160 3034743. (3034743.) FILTER Ul 2,000 114,00 228,00
+Country of Origin: CANADA Unit Net weight:
+Comm.: 8421230090 0,0300 Kg
+440 MS21914-4J (MS21914-4J) CAP PREASSURE SEAL Ul 10,000 22,26 222,60
+Country of Origin: France Unit Net weight:
+Comm.: 3921901090 0,0190 Kg
+Ca
+:
+5 BOX: WA230866
+a WEIGHT (KG): 0,700
+r= DIMENSIONS (CM): 26X26X26
+a
+E
+: TOTAL NET WEIGHT: 0,2500 KG
+
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract:
+SAP Sales Order: M9230902
+
+BY/POR AIRBUS DEFENCE AND SPACE S.A.
+
+REMARKS
+
+Observaciones
+
+795
+

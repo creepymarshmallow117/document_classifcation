@@ -1,0 +1,81 @@
+CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+PAGE 1 OF 3
+Pagina 1 de 3
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+Aviso Expedicién : WA230991 Fecha: 25.03.2023 N°Factura : 99981891024
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CUSTOMER: Ministry of Defence
+
+Cliente Government of India
+ADDRESS: 104 South Block
+Direccién
+
+110011 New Delhi
+INDIA
+
+ey
+= N° KAPIS: 1455
+a CLO 24 ED Air Force Station PURCHASE ORDER DATE
+| CLO 24 ED Air Force Station "
+a . Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 22.03.2023
+4 212212 Prayagraj
+Ki INDIA
+.
+4 CASA REPRESENTATIVE PAYMENT DUE DATE:
+al Interlocutor Casa: TFNO.: Fecha de vencimiento:
+:
+s P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
++ Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+4 Designacién Materiales y/o Servicios
+4 Type of export: Definitive
+=
+Ce
+"i 730 LN65028-06012 (LN65028-06012) BOLT Ul 10,000 34,00 340,00
+z Country of Origin: Germany Unit Net weight:
+“ Comm.: 7318190090 0,0068 Kg
+J 870 LN9166-5.3N (LN9166-5.3N) WASHER Ul 100,000 3,00 300,00
+* Country of Origin: USA Unit Net weight:
+4 Comm.: 7616999099 0,0001 Kg
+g 880 LN9166-5.3N (LN9166-5.3N) WASHER Ul 100,000 3,00 300,00
+i) Country of Origin: USA Unit Net weight:
+3 Comm.: 7616999099 0,0001 Kg
+4
+wi
+3
+q
+a
+E BOX: WA230991
+: WEIGHT (KG): 0,190
+a DIMENSIONS (CM): 37X25X1
+TOTAL NET WEIGHT: 0,0880 KG
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract: BY/POR AIRBUS DEFENCE AND SPACES.A
+
+SAP Sales Order: M9230967
+
+REMARKS
+
+a WM
+
+81891024
+

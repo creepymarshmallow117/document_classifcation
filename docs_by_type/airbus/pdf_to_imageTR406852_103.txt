@@ -1,0 +1,81 @@
+CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+PAGE 1 OF 3
+Pagina 1 de 3
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+Aviso Expedicién : WA230842 Fecha: 24.03.2023 N°Factura : 99981890264
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CUSTOMER: Ministry of Defence
+
+Cliente Government of India
+ADDRESS: 104 South Block
+Direccién
+
+110011 New Delhi
+INDIA
+
+ey
+= N° KAPIS: 1455
+a CLO 24 ED Air Force Station PURCHASE ORDER DATE
+| CLO 24 ED Air Force Station "
+a . Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+4 212212 Prayagraj
+Ki INDIA
+.
+4 CASA REPRESENTATIVE PAYMENT DUE DATE:
+al Interlocutor Casa: TFNO.: Fecha de vencimiento:
+:
+s P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
++ Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+4 Designacién Materiales y/o Servicios
+4 Type of export: Definitive
+=
+Ce
+"i 260 3109347-01 (3109347-01) WASHER Ul 25,000 11,00 275,00
+z Country of Origin: CANADA Unit Net weight:
+“ Comm.: 7318220098 0,0220 Kg
+J 520 DHE21979A4 (CAN42150-4) NUT Ul 1,000 248,77 248,77
+* Country of Origin: France Unit Net weight:
+4 Comm.: 7508900000 0,0018 Kg
+g 640 MS9318-052 (MS9318-052) RIVET Ul 100,000 2,37 237,00
+ri Country of Origin: USA Unit Net weight:
+3 Comm.: 7318190090
+4
+wi
+3
+q
+a
+E BOX: WA230842
+: WEIGHT (KG): 0,140
+a DIMENSIONS (CM): 37X25X1
+TOTAL NET WEIGHT: 0,5518 KG
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract: BY/POR AIRBUS DEFENCE AND SPACES.A
+
+SAP Sales Order: M9230904
+
+REMARKS
+
+a WMO
+
+81890264
+

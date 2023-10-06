@@ -1,0 +1,85 @@
+CUSTOMS INVOICE PAGE 1 OF 2
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+Pagina 1 de 2
+
+PACKING LIST NO. SHIP DATE INVOICE NO.
+Aviso Expedicién : WA230935 Fecha: 25.03.2023 N°Factura : 99981890948
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CLO 24 ED Air Force Station
+CLO 24 ED Air Force Station
+212212 Prayagraj
+
+INDIA
+
+CUSTOMER: Ministry of Defence
+Cliente Government of India
+
+ADDRESS:
+
+Direccién
+
+104 South Block
+
+110011 New Delhi
+INDIA
+
+N° KAPIS: 1455
+
+PURCHASE ORDER DATE
+Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+
+CASA REPRESENTATIVE
+Interlocutor Casa: TENO.:
+
+PAYMENT DUE DATE:
+
+Fecha de vencimiento:
+
+30, Foo 203, Seccn §. Hoja 42 10062. Inseripeion 6.3, S° dent, Fiscal A 006104
+
+P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
+Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+Designacién Materiales y/o Servicios
+Type of export: Definitive
+20 MS20073-03-04 (MS20073-03-04) BOLT Ul 100,000 3,00 300,00
+Country of Origin: Spain Unit Net weight:
+Comm.: 7318190090
+BOX: WA230935
+w WEIGHT (KG): 0,450
+
+DIMENSIONS (CM): 37X25X1
+
+TOTAL NET WEIGHT:
+
+Registro Mercantil de 4dr. Tomo
+
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract:
+SAP Sales Order: M9230904
+
+BY/POR AIRBUS DEFENCE AND SPACE S.A.
+
+REMARKS
+
+Observaciones
+
+81890948
+

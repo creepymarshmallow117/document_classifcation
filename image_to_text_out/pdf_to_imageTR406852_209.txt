@@ -1,0 +1,76 @@
+CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+PAGE 1 OF 3
+Pagina 1 de 3
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+Aviso Expedicién : WA230908 Fecha : 25.03.2023 N°Factura : 99981890901
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CUSTOMER: Ministry of Defence
+
+Cliente Government of India
+ADDRESS: 104 South Block
+Direccién
+
+110011 New Delhi
+INDIA
+
+ey
+= N° KAPIS: 1455
+a CLO 24 ED Air Force Station PURCHASE ORDER DATE
+| CLO 24 ED Air Force Station "
+a . Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+4 212212 Prayagraj
+Ki INDIA
+.
+4 CASA REPRESENTATIVE PAYMENT DUE DATE:
+al Interlocutor Casa: TFNO.: Fecha de vencimiento:
+:
+s P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
++ Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+4 Designacién Materiales y/o Servicios
+4 Type of export: Definitive
+=
+Ce
+"i 10 8856K7 (MS21027C231) SWITCH Ul 1,000 202,19 202,19
+z Country of Origin: France Unit Net weight:
+“ Comm.: 8536101090 0,0290 Kg
+J 100 NAS6703U2 (NAS6703U2) BOLT HEX Ul 100,000 2,00 200,00
+* Country of Origin: France Unit Net weight:
+4 Comm.: 7318157590 0,0030 Kg
+g 250 3016598. (3016598.) WASHER Ul 100,000 2,00 200,00
+ri same element as
+3 3016598
+3 Country of Origin: CANADA Unit Net weight:
+3 Comm.: 7318190090 17,2500 Kg
+q
+i
+wi
+i BOX : WA230908
+WEIGHT (KG): 0,500
+DIMENSIONS (CM): 37X25X1
+TOTAL NET WEIGHT: 1.725,3290 KG
+FOR CUSTOMS PURPOSES ONLY
+Customer: 45207 SAP Contract: BY/POR AIRBUS DEFENCE AND SPACES.A
+SAP Sales Order: M9230908
+REMARKS
+a WMO
+81890901
+

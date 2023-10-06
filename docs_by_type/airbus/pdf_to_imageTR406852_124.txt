@@ -1,0 +1,91 @@
+CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+AIRBUS
+
+MANUFACTURING PLANT: AM-SERVICES
+MODE PAYMENT:
+
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+VAT: VAT: ESA28006104
+
+Aviso Expedicién : WA230857_ Fecha : 24.03.2023
+
+PAGE 1 OF 2
+Pagina 1 de 2
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+N°Factura : 99981890753
+
+I
+SHIP TO (Destino de los materiales)
+
+Indian Air Force
+
+CUSTOMER: Ministry of Defence
+Cliente Government of India
+ADDRESS: 104 South Block
+Direccién
+
+110011 New Delhi
+INDIA
+
+N° KAPIS: 1455
+
+CLO 24 ED Air Force Station
+CLO 24 ED Air Force Station
+
+PURCHASE ORDER
+
+DATE
+
+212212 Prayagraj
+INDIA
+
+Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+
+Interlocutor Casa:
+
+CASA REPRESENTATIVE
+
+TENO.:
+
+PAYMENT DUE DATE:
+
+Fecha de vencimiento:
+
+30, Foo 203, Seccn §. Hoja 42 10062. Inseripeion 6.3, S° dent, Fiscal A 006104
+
+P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
+Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+Designacién Materiales y/o Servicios
+Type of export: Definitive
+40 MS14103-5C (MS14103-5C) PLAIN BEARING Ul 10,000 62,32 623,20
+Country of Origin: France Unit Net weight:
+Comm.: 8482800090 0,0159 Kg
+BOX: WA230857
+w WEIGHT (KG): 0,175
+
+DIMENSIONS (CM): 37X25X1
+TOTAL NET WEIGHT: 0,1590 KG
+
+Registro Mercantil de 4dr. Tomo
+
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract:
+SAP Sales Order: M9230902
+
+BY/POR AIRBUS DEFENCE AND SPACE S.A.
+
+REMARKS
+
+Observaciones
+
+81890753
+

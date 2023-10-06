@@ -1,0 +1,81 @@
+CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+PAGE 1 OF 3
+Pagina 1 de 3
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+Aviso Expedicién : WA230716 Fecha: 22.03.2023 N°Factura : 99981888446
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CUSTOMER: Ministry of Defence
+
+Cliente Government of India
+ADDRESS: 104 South Block
+Direccién
+
+110011 New Delhi
+INDIA
+
+ey
+= N° KAPIS: 1455
+a CLO 24 ED Air Force Station PURCHASE ORDER DATE
+| CLO 24 ED Air Force Station "
+a . Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+4 212212 Prayagraj
+Ki INDIA
+.
+4 CASA REPRESENTATIVE PAYMENT DUE DATE:
+al Interlocutor Casa: TFNO.: Fecha de vencimiento:
+:
+s P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
++ Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+4 Designacién Materiales y/o Servicios
+4 Type of export: Definitive
+=
+Ce
+"i 10 ST1478-11 (ST1478-11) CLAMP Ul 1,000 320,00 320,00
+z Country of Origin: CANADA Unit Net weight:
+“ Comm.: 7307210090 0,0260 Kg
+J 130 ST1478-13 (ST1478-13) CLAMP Ul 1,000 268,39 268,39
+* Country of Origin: CANADA Unit Net weight:
+4 Comm.: 7307210090 0,0340 Kg
+g 280 ST3033-022 (ST3033-022) STUD Ul 2,000 161,14 322,28
+ri Country of Origin: CANADA Unit Net weight:
+3 Comm.: 7318190090 0,0130 Kg
+4
+wi
+3
+q
+a
+E BOX: WA230716
+: WEIGHT (KG): 0,130
+a DIMENSIONS (CM): 37X25X1
+TOTAL NET WEIGHT: 0,0860 KG
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract: BY/POR AIRBUS DEFENCE AND SPACES.A
+
+SAP Sales Order: M9230902
+
+REMARKS
+
+a WM
+
+81888446
+

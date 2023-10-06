@@ -1,0 +1,81 @@
+CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP
+COMPANY NUMBER: 1455
+
+PAGE 1 OF 3
+Pagina 1 de 3
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+Aviso Expedicién : WA230999 Fecha: 25.03.2023 N°Factura : 99981891033
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+CUSTOMER: Ministry of Defence
+
+Cliente Government of India
+ADDRESS: 104 South Block
+Direccién
+
+110011 New Delhi
+INDIA
+
+ey
+= N° KAPIS: 1455
+a CLO 24 ED Air Force Station PURCHASE ORDER DATE
+| CLO 24 ED Air Force Station "
+a . Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 22.03.2023
+4 212212 Prayagraj
+Ki INDIA
+.
+4 CASA REPRESENTATIVE PAYMENT DUE DATE:
+al Interlocutor Casa: TFNO.: Fecha de vencimiento:
+:
+s P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
++ Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+4 Designacién Materiales y/o Servicios
+4 Type of export: Definitive
+=
+Ce
+"i 800 LN9025-0615K (LN9025-0615K) WASHER Ul 100,000 3,00 300,00
+= Country of Origin: USA Unit Net weight:
+“ Comm.: 7318220091 0,0010 Kg
+J 810 LN9025-0615L (LN9025-0615L) WASHER Ul 100,000 3,00 300,00
+* Country of Origin: ITALY Unit Net weight:
+4 Comm.: 7318220091 0,0009 Kg
+g 820 LN9025-0615L (LN9025-0615L) WASHER Ul 100,000 3,00 300,00
+ri Country of Origin: ITALY Unit Net weight:
+3 Comm.: 7318220091 0,0009 Kg
+4
+wi
+3
+q
+a
+E BOX: WA230999
+: WEIGHT (KG): 0,510
+a DIMENSIONS (CM): 25X20X12
+TOTAL NET WEIGHT: 0,2800 KG
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract: BY/POR AIRBUS DEFENCE AND SPACES.A
+
+SAP Sales Order: M9230967
+
+REMARKS
+
+a A
+
+81891033
+

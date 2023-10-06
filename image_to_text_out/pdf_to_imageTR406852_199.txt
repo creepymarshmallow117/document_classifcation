@@ -1,0 +1,75 @@
+CUSTOMS INVOICE PAGE 1 OF 2
+
+AIRBUS DEFENCE AND SPACE S.A.U. Pagina 1 de 2
+Domicilio Social: C/ Aviocar 2 PACKING LIST NO. SHIP DATE INVOICE NO.
+28906 Getafe, Madrid - Espaiia Aviso Expedicién : WA230992 Fecha: 25.03.2023 N°Factura : 99981891025
+
+VAT: VAT: ESA28006104
+
+CUSTOMER: Ministry of Defence
+
+Cliente Government of India
+
+MANUFACTURING PLANT: AM-SERVICES
+ADDRESS: 104 South Block
+
+MODE PAYMENT:
+DELIVERY CONDITIONS: DAP Direccién
+COMPANY NUMBER: 1455 110011 New Delhi
+
+INDIA
+
+I
+SHIP TO (Destino de los materiales)
+Indian Air Force
+
+N° KAPIS: 1455
+
+CLO 24 ED Air Force Station
+CLO 24 ED Air Force Station
+212212 Prayagraj
+
+INDIA
+
+PURCHASE ORDER DATE
+Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 22.03.2023
+
+CASA REPRESENTATIVE PAYMENT DUE DATE:
+
+Interlocutor Casa: TENO.: Fecha de vencimiento:
+
+P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
+Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+
+Designacién Materiales y/o Servicios
+
+Type of export: Definitive
+
+30, Foo 203, Seccn §. Hoja 42 10062. Inseripeion 6.3, S° dent, Fiscal A 006104
+
+790 LN9025-0615K (LN9025-0615K) WASHER Ul 100,000 3,00 300,00
+Country of Origin: USA Unit Net weight:
+Comm.: 7318220091 0,0010 Kg
+890 LN9240-6X2 (LN9240-6X2) GROMMET Ul 9,000 23,46 211,14
+Country of Origin: Germany Unit Net weight:
+Comm.: 4016930090 0,0008 Kg
+Ca
+:
+5 BOX: WA230992
+a WEIGHT (KG): 0,160
+r= DIMENSIONS (CM): 37X25X1
+a
+E
+: TOTAL NET WEIGHT: 0,1072 KG
+
+FOR CUSTOMS PURPOSES ONLY
+
+Customer: 45207 SAP Contract:
+SAP Sales Order: M9230967
+
+BY/POR AIRBUS DEFENCE AND SPACE S.A.
+
+REMARKS
+
+81891025
+
