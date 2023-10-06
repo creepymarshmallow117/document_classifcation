@@ -1,0 +1,113 @@
+CUSTOMS INVOICE
+AIRBUS DEFENCE AND SPACE S.A.U.
+
+Domicilio Social: C/ Aviocar 2
+28906 Getafe, Madrid - Espaiia
+
+VAT: VAT: ESA28006104
+
+MANUFACTURING PLANT: AM-SERVICES
+
+MODE PAYMENT:
+
+DELIVERY CONDITIONS: DAP
+
+COMPANY NUMBER:
+
+1455
+
+PAGE 1 OF 2
+Pagina 1 de 2
+PACKING LIST NO. SHIP DATE INVOICE NO.
+
+Aviso Expedicién : WA230948
+
+Fecha : 25.03.2023. N°Factura : 99981890966
+
+I
+SHIP TO (Destino de los materiales)
+
+Indian Air Force
+
+212212 Prayagraj
+INDIA
+
+CLO 24 ED Air Force Station
+CLO 24 ED Air Force Station
+
+CUSTOMER:
+Cliente
+
+ADDRESS:
+
+Direccién
+
+Ministry of Defence
+
+Government of India
+
+104 South Block
+
+110011
+INDIA
+
+N° KAPIS: 1455
+
+New Delhi
+
+PURCHASE ORDER
+Su Pedido N°: Air HQ/S 96355/1/ASR Reserva#1 Fecha: 17.03.2023
+
+DATE
+
+Interlocutor Casa:
+
+CASA REPRESENTATIVE
+
+TENO.:
+
+PAYMENT DUE DATE:
+
+Fecha de vencimiento:
+
+30, Foo 203, Seccn §. Hoja 42 10062. Inseripeion 6.3, S° dent, Fiscal A 006104
+
+Registro Mercantil de 4dr. Tomo
+
+Country of Origin: USA Unit Net weight:
+Comm.: 7616999099 0,0001 Kg
+BOX: WA230948
+WEIGHT (KG): 0,100
+
+DIMENSIONS (CM): 37X25X1
+
+TOTAL NET WEIGHT: 0,0180 KG
+
+FOR CUSTOMS PURPOSES ONLY
+
+P.O. ITEM NO. MANUFACTURER PART NUMBER (TECHNICAL | UNIT QTY. UNIT PRICE TOTAL PRICE
+Pos Pedido PART NUMBER) AND/OR DERSCRIPTION U.M. Cant. PrecioUnitario Importe total
+Designacién Materiales y/o Servicios
+
+Type of export: Definitive
+
+650 3106692-01 (3106692-01) INSULATOR PLATE Ul 2,000 118,29 236,58
+Country of Origin: CANADA Unit Net weight:
+Comm.: 8807300099 0,0040 Kg
+
+670 NAS43DD1-13A (NAS43DD1-13A) SPACER Ul 100,000 2,34 234,00
+
+Customer: 45207 SA
+
+SAP Sales Order: M9230904
+
+P Contract:
+
+BY/POR AIRBUS DEFENCE AND SPACE S.A.
+
+REMARKS
+
+Observaciones
+
+81890966
+

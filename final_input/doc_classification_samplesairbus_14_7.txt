@@ -1,0 +1,50 @@
+PAGE 1 OF 1
+INVOICE NO: 2302006896 Date: 05.05.2023 | TYPE CUSTOMS INVOICE
+
+AIRBUS DEFENCE AND SPACE S.A.U. P/L NO. P/L DATE: TAX POINT DATE:
+
+Registered office: C/ Aviocar, 2
+28906 GETAFE, MADRID
+
+VAT: ESA28006104 CUSTOMER TATA ADVANCED SYSTEMS LIMITED (MCA)
+
+MODE PAYMENT
+ADDRESS 519 Sy IP Nadergul
+INCOTERMS CIP TATA ADVANCED SYSTEMS LIMITED (MCA)
+501510 Nadergul Village Balapur Mandal
+COMPANY NUMBER = 1455 INDIA
+SHIP TO:
+TATA ADVANCED SYSTEMS LIMITED
+c COMPANY NUMBER:
+Sy No. 519 IP Nadergul PURCHASE ORDER NO.: 23INDA0045 DATE:
+Customs Private Bonded Warehouse MOOWR
+501510 Hyderabad Telangana
+IBAN: ES1601510001670099028500 PAYMENT DUE DATE:
+
+SWIFT: CHASESM3
+BANK: JP MORGAN
+
+P.O.ITEM NO. PART NUMBER | PARTNUMBER AND/OR DESCRIPTION | DESCRIPTION unrrl ory. | UNIT UNIT PRICE | TOTAL PRICE
+
+0001 35-46641-0704 CABLE GUIDE 1,000 109,38 109,38
+
+Customs code: 7616100099
+Country of origin: PL
+
+"National controlled items
+
+This is a military item controlled by the Spanish Authorities.
+Classification: MLIOA
+
+Spanish Export License: ESMDDUI060652"
+
+Reenstro Mercantil de \iadrid. Tomo 439, Foho 703, Seccn 8. Hoja L 10082. Inseripeion 6233. SN’ Ident, Fiscal A 23006104
+
+Customer: 10645 SAP Contract: Division: TOTAL: 109,38 EUR
+REMARKS VAT EXEMPT ACCORDING TO ART. 21 L.IVA Tax. base: 109,38 EUR
+These goods are sent on Free of Cost basis for the VAT 0.00 %
+
+manufacturing and assembly of C295 aircraft by TASL.
+The value mentioned is for customs purpose only and there is
+no commercial value involved in this transaction
+
